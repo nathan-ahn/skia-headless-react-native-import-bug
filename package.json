@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@shopify/react-native-skia": "1.10.2"
+		"@shopify/react-native-skia": "1.11.0"
 	},
 	"peerDependencies": {
 		"react": "^18.0.0"
